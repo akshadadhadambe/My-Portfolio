@@ -1,0 +1,48 @@
+body {
+    background: url("image/bg_new.png");
+    background-color: black;
+    background-size:contain;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#about{
+    color: #fff;
+}
+#skills{
+    color: #fff;
+}
+
+#projects{
+    color: #fff;
+
+}
+header, footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+#about, #skills, #projects, #resume, #contact {
+    padding: 20px;
+}
+
+#projects .project {
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 20%;
+    height: auto;
+}
+
+.pro{
+    color: #fff;
+}
+#resume{
+    color: aliceblue;
+}
+
+#contact{
+    color: #fff;
+}
